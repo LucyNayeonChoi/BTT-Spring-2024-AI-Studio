@@ -1,4 +1,4 @@
-# BTT-Spring-2024-AI-Studio
+# BTT-Spring-2024-AI-Studio-Project
 Team Powderpuffs - 2nd Place Solution for the BTTAI x NYBG Spring 2024 AI Studio
 
 ## Context

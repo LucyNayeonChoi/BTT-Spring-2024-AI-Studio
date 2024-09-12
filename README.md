@@ -293,3 +293,7 @@ This project was completed with the collaborative effort of the following team m
 - Jing Gan
 
 I want to express my sincere gratitude for their invaluable contributions to the project.
+## Repository Contents
+- READ ME: contains an explanation of our group's approach to modeling and details of the submission.
+- Final submission code: Includes Python scripts for modeling.
+- EDA: Includes exploratory data analysis of the dataset.
